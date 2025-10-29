@@ -1,0 +1,7 @@
+# 默认忽略的文件
+/shelf/
+/workspace.xml
+# 忽略 JetBrains IDE (PyCharm, IntelliJ) 的配置文件夹
+.idea/
+# 忽略所有以 .iml 结尾的模块文件
+*.iml
